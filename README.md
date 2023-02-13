@@ -6,7 +6,7 @@ In order to build the software successfully make sure you have installed cmake 3
 $ mkdir build && cd build   
 $ cmake ..  
 $ make  
-$ ./LorentzForceSimulator  
+$ ./CarFrctionForceSimulator  
 ```
 
 Enjoy :smiling_face_with_three_hearts:
